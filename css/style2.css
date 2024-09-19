@@ -41,8 +41,8 @@ body {
     width: 100px;
     height: 100px;
     background-color: #f6eb93;
-    margin-left: 100px;
-    margin-top: 100px;
+    margin-left: 50%;
+    margin-top: 50%;
 }
 
 .green {
@@ -58,5 +58,5 @@ body {
     width: 100px;
     height: 100px;
     background-color: #cbf693;
-    margin-top: 100px;
+    margin-top: 50%;
 }
