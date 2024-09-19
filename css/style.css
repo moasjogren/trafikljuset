@@ -1,0 +1,47 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.white {
+    background-color: white;
+    width: auto;
+    padding: 10px;
+}
+
+.red {
+    background-color: red;
+    border-width: 20px;
+    border-style: solid;
+    border-color: brown;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.yellow {
+    background-color: yellow;
+    border-width: 20px;
+    border-style: solid;
+    border-color: #d7c11c;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
+
+.green {
+    background-color: green;
+    border-width: 20px;
+    border-style: solid;
+    border-color: #0d5604;
+    width: 200px;
+    height: 200px;
+}
